@@ -5,6 +5,7 @@
 
 ## About Me
 I'm a **Neuroscientist** 🧠 📚 specializing in NBIC (Nano-Bio-Info-Cogno) technologies at the **University of Tehran**. My research focuses on Neural basis of Trust Game.
+![R](https://github.com/user-attachments/assets/1951f76a-d258-476b-b8f7-fecd4337e672)
 
 - 🔭 I’m currently working on The fMRI Data of Trust Game
 - 🌱 I’m expanding my expertise in fMRI techniques
