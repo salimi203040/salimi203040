@@ -1,5 +1,5 @@
-![Ayda Salimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=alireza-mahdavi&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-mahdavi&layout=compact&theme=radical)](https://github.com/alireza-mahdavi/alireza-mahdavi)
+![Ayda Salimi's GitHub stats](https://github.com/salimi203040/salimi203040/tree/main)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-mahdavi&layout=compact&theme=radical)](https://github.com/salimi203040/salimi203040/tree/main)
 # Hi there, I'm Ayda Salimi! 👋
 
 ## About Me
